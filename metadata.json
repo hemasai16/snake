@@ -1,0 +1,6 @@
+{
+  "name": "Neon CyberSnake Player",
+  "description": "A high-energy neon snake game integrated with a lo-fi music player experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
